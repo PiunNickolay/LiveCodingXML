@@ -16,5 +16,6 @@ import ru.nickolay.livecodingxml.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+
 }
 
